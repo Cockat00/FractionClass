@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction_NameSpace", "Fraction_NameSpace\Fraction_NameSpace.csproj", "{D636C7F6-8A1A-41EA-A3D4-CE3202D235F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionTest", "FractionTest\FractionTest.csproj", "{6407CD66-3337-4364-996E-5EDFDB247355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D636C7F6-8A1A-41EA-A3D4-CE3202D235F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D636C7F6-8A1A-41EA-A3D4-CE3202D235F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D636C7F6-8A1A-41EA-A3D4-CE3202D235F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D636C7F6-8A1A-41EA-A3D4-CE3202D235F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6407CD66-3337-4364-996E-5EDFDB247355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6407CD66-3337-4364-996E-5EDFDB247355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6407CD66-3337-4364-996E-5EDFDB247355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6407CD66-3337-4364-996E-5EDFDB247355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14792071-581C-4139-9816-AD3D963F7B6C}
+	EndGlobalSection
+EndGlobal
